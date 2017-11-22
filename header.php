@@ -15,6 +15,8 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/custom.css">
+
 <?php wp_head(); ?>
 </head>
 
@@ -58,8 +60,8 @@
 	
 	<?php endif; ?>
 
-	<header class="site-header site-section" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
-<img src="http://greatervancouverluxuryhomes.com/wp-content/uploads/2017/08/websiteheader-new.png" style="margin-left: 300px; height:125px;">
+	<header id="main-banner" class="site-header site-section container" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<img src="http://greatervancouverluxuryhomes.com/wp-content/uploads/2017/08/websiteheader-new.png" style="height:125px;">
 	
 		<div class="container clearfix">
 		
@@ -72,9 +74,9 @@
 						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php echo get_option( 'wpcasa_logo', get_stylesheet_directory_uri() . '/assets/images/logo.png' ); ?>" alt="logo"></a>
 					</div>
 				<?php else : ?>			
-					<h1 class="site-title site-title-text" itemprop="headline">
+					<!-- <h1 class="site-title site-title-text" itemprop="headline">
 						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
-					</h1>
+					</h1> -->
 				<?php endif; ?>
 				
 				<?php

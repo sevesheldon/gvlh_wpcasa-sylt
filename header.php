@@ -61,7 +61,7 @@
 	<?php endif; ?>
 
 	<header id="main-banner" class="site-header site-section container" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
-<img src="http://greatervancouverluxuryhomes.com/wp-content/uploads/2017/11/2017HeaderGold.png" style="height:125px;">
+<img src="http://greatervancouverluxuryhomes.com/wp-content/uploads/2017/11/2017HeaderGold-min.png" style="height:125px;">
 	
 		<div class="container clearfix">
 		

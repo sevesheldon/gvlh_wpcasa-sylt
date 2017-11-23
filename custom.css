@@ -27,6 +27,12 @@ input[type="submit"] {
 }
 
 
+/* "View Homes" Button on home page */
+a.button {
+    background-color: #a4ce59 !important;
+}
+
+
 
 
 /***** MEDIA QUERIES *****/

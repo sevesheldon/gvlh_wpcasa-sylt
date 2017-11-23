@@ -23,5 +23,14 @@ header#main-banner {
 
 
 
+/***** MEDIA QUERIES *****/
 
+@media screen and (max-width: 1080px) {
 
+	.site-header nav {
+	    float: left !important;
+	    margin-left: -40px !important;
+	    width: max-content !important;
+	}
+
+}

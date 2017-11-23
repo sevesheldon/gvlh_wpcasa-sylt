@@ -13,7 +13,7 @@ header#main-banner {
 }
 
 .nav-primary .wpsight-menu a {
-    color: #e7bc60 !important;
+    color: #d0b15e !important;
 }
 
 .nav-primary .wpsight-menu a:hover {
@@ -23,7 +23,7 @@ header#main-banner {
 
 
 input[type="submit"] {
-    background-color: #e7bc60 !important;
+    background-color: #d0b15e !important;
 }
 
 
@@ -33,6 +33,12 @@ a.button {
 }
 
 
+
+/***** FOOTER *****/
+
+.site-footer-top.site-section {
+    background-color: #d0b15e !important;
+}
 
 
 /***** MEDIA QUERIES *****/

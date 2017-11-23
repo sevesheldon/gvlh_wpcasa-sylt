@@ -5,7 +5,6 @@
 
 header#main-banner {
     background-color: transparent !important;
-    padding-left: 20px !important;
 }
 
 .site-header nav {
@@ -20,6 +19,13 @@ header#main-banner {
 .nav-primary .wpsight-menu a:hover {
     color: #3e392b !important;
 }
+
+
+
+input[type="submit"] {
+    background-color: #e7bc60 !important;
+}
+
 
 
 

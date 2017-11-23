@@ -1,7 +1,10 @@
 
 
 
-
+body {
+	max-width: 1280px;
+	margin: auto !important;
+}
 
 header#main-banner {
     background-color: transparent !important;
@@ -43,6 +46,11 @@ a.button {
 
 /***** MEDIA QUERIES *****/
 
+@media screen and (max-width: 1280px) {
+	.container {
+		width: 90% !important;
+	}
+}
 @media screen and (max-width: 1080px) {
 
 	.site-header nav {

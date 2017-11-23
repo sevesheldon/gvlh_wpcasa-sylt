@@ -45,7 +45,7 @@
 							<p>
 								<?php printf( 'Copyright &copy; %s', '<span itemprop="copyrightYear">' . date( 'Y' ) . '</span>' ); ?> &sdot;
 								<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" itemprop="copyrightHolder"><?php bloginfo( 'name' ); ?></a> &sdot;
-								<?php _e( 'Site By', 'wpcasa-sylt' ); ?> <a href="http://www.sourcecode-web.com">Source Code Web</a> 
+								<?php _e( 'Site By', 'wpcasa-sylt' ); ?> <a href="http://lagosconsulting.com/">Lagos Consulting</a> 
 							</p>
 					
 						</div>

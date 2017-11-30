@@ -23,6 +23,13 @@ header#main-banner {
     color: #3e392b !important;
 }
 
+#home-cta-2 {
+    background-color: #e8f2f9 !important;
+}
+
+#home-cta-2 .cta-description {
+    max-width: 100% !important;
+}
 
 
 input[type="submit"] {

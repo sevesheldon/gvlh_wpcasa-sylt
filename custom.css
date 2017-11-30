@@ -42,7 +42,19 @@ a.button {
     background-color: #a4ce59 !important;
 }
 
+/***** LISTINGS PAGE *****/
 
+a.next.page-numbers {
+    background: none !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+a.prev.page-numbers {
+    background: none !important;
+    width: auto !important;
+    height: auto !important;
+}
 
 /***** FOOTER *****/
 

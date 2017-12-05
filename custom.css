@@ -13,6 +13,7 @@ header#main-banner {
 .site-header nav {
     float: left !important;
     margin-left: 0 !important;
+    width: max-content !important;
 }
 
 .nav-primary .wpsight-menu a {

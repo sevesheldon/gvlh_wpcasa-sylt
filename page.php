@@ -39,16 +39,16 @@ get_header(); ?>
 							endif;
 						?>
 					
-					<?php endwhile; // end of the loop. ?>
+					<?php endwhile;?>
 				
 				</main>
 				
 				<?php get_sidebar(); ?>
 			
-			</div><!-- .content-sidebar-wrap.row -->
+			</div>
 		
-		</div><!-- .container -->
+		</div>
 	
-	</div><!-- .site-main -->
+	</div>
 
 <?php get_footer(); ?>

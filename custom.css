@@ -62,6 +62,16 @@ a.prev.page-numbers {
     height: auto !important;
 }
 
+
+/***** CONTACT US FORM *****/
+
+div#wpcf7-f20536-p95-o1 {
+    width: 90%;
+    margin: auto;
+}
+
+
+
 /***** FOOTER *****/
 
 .site-footer-top.site-section {
